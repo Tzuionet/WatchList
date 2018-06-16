@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WatchList</string>
+    <string name="action_settings">Settings</string>
+    <string name="addButton">Add</string>
+    <string name="editButton">Edit</string>
+    <string name="searchButton">Search</string>
+</resources>
