@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WatchList.iml" filepath="$PROJECT_DIR$/WatchList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Watchlist.iml" filepath="$PROJECT_DIR$/Watchlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

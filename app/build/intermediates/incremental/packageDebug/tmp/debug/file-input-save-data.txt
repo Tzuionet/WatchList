@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Sat Jun 16 19:40:14 CEST 2018
-1.base=C\:\\Data\\Softwareprojekte\\WatchList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+#Wed Dec 26 17:40:14 CET 2018
+1.base=C\:\\Data\\Watchlist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=C\:\\Data\\Softwareprojekte\\WatchList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+2.base=C\:\\Data\\Watchlist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
 3.set=DEX
 2.set=DEX
 1.baseType=DIRECTORY
@@ -12,8 +12,8 @@
 count=4
 1.set=DEX
 0.path=classes.dex
-3.base=C\:\\Data\\Softwareprojekte\\WatchList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+3.base=C\:\\Data\\Watchlist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
 0.set=DEX
-0.base=C\:\\Data\\Softwareprojekte\\WatchList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.base=C\:\\Data\\Watchlist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
 2.baseType=DIRECTORY
 1.path=classes.dex

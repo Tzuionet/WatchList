@@ -1,4 +1,4 @@
-#Sat Jun 16 19:40:14 CEST 2018
-base.0=C\:\\Data\\Softwareprojekte\\WatchList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+#Wed Dec 26 17:40:14 CET 2018
+base.0=C\:\\Data\\Watchlist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
 path.0=classes.dex
 renamed.0=classes.dex
